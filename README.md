@@ -27,7 +27,7 @@ Check out the app live here:
 
 ## 📷 Preview
 
-![App Preview](logo.PNG)
+![App Preview](pov.PNG)
 
 ## 📁 How to Use Locally
 
